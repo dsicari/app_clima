@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorGradientStart">#043375</color>
+    <color name="colorGradientCenter">#2A6ADD</color>
+    <color name="colorGradientEnd">#86B7E9</color>
+
+<!--    <color name="colorActiveGradientStart">#9B0E40</color>-->
+<!--    <color name="colorActiveGradientCenter">#BE1C55</color>-->
+<!--    <color name="colorActiveGradientEnd">#F3347A</color>-->
+    </resources>
